@@ -1,0 +1,11 @@
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\bin\Debug\StockSystems.exe.config
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\obj\Debug\StockSystems.csprojResolveAssemblyReference.cache
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\obj\Debug\StockSystems.Login.resources
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\obj\Debug\StockSystems.Properties.Resources.resources
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\obj\Debug\StockSystems.StockMain.resources
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\obj\Debug\StockSystems.csproj.GenerateResource.Cache
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\bin\Debug\StockSystems.exe
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\bin\Debug\StockSystems.pdb
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\obj\Debug\StockSystems.exe
+c:\users\hyena_ish\documents\visual studio 2012\Projects\StockSystems\StockSystems\obj\Debug\StockSystems.pdb
+C:\Users\Hyena_Ish\Documents\Visual Studio 2012\Projects\StockSystems\StockSystems\obj\Debug\StockSystems.Products.resources
